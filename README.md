@@ -20,5 +20,5 @@ Yahtzee is a dice game where the objective is to score points by rolling five di
 4. View the final score at the end of the game.
 
 ## Files Included
-- `Yahtzee_two.py`: Python script implementing the game logic.
-- `README.md`: This file, explaining the project and how to use it.
+- `Yahtzee.py`: An one-player version of the game
+- `Yahtzee_two.py` : A two-player version of the game
