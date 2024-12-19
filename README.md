@@ -1,4 +1,4 @@
-# Yahtzee Game
+# Yahtzee Game 🎲
 
 This project implements a single-player **Yahtzee** game in Python. The game allows players to roll dice, manage scoring categories, and calculate their final score based on Yahtzee rules.
 
